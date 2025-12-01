@@ -107,6 +107,8 @@ HK-Merger-Arbitrage-Analysis/
 ├── code/
 │   ├── merger_arbitrage_analysis.py # Live data version
 │   └── demo_analysis.py           # Demo version
+├── data/
+│   └── data.csv
 ├── results/
 │   ├── demo_results/
 │   │   ├── holding_vs_return.png
